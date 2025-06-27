@@ -99,10 +99,12 @@ These projects demonstrate my end-to-end data analysis capabilities. I encourage
 ### 📫 Let's Connect!
 
 I'm excited about new opportunities and collaborations. Feel free to reach out!
+## 📬 Contact Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn" height="40" width="40" /></a>
-  <a href="mailto:mbwanakhadija77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="My Email" height="40" width="40" /></a>
-</p>
+- 📧 Email: [mbwanakhadija77@gmail.com](mailto:mbwanakhadija77@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/khadija-mbwana](https://linkedin.com/in/khadija-mbwana)
+- 🐱 GitHub: [github.com/khadijambwana](https://github.com/kadija123)
+
+
 
 <!-- END OF PROFILE -->
