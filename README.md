@@ -86,7 +86,7 @@ Here’s a breakdown of my key projects. **Click on any dashboard preview to int
       </td>
     </tr>
   </table>
-</detais>
+</details>
 
 ---
 
