@@ -86,17 +86,30 @@ Here’s a breakdown of my key projects. **Click on any dashboard preview to int
       </td>
     </tr>
   </table>
-</details>
-
+</detais>
 
 ---
 
-### 📈 My GitHub Activity
 
+### 🛠️ My Tech Stack & Skills
+<p align="center">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+</p>
+
+---
+
+<!-- 3. YOUR AUTOMATED GITHUB STATS -->
+### 📈 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhadijaMbwana&show_icons=true&theme=dracula" alt="Khadija's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhadijaMbwana&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
+
+---
+
 
 ---
 
