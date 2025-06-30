@@ -100,6 +100,7 @@ Here’s a breakdown of my key projects. **Click on any dashboard preview to int
 </p>
 
 ---
+
 ### 📈 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khadijambwana&show_icons=true&theme=dracula" alt="khadija's GitHub Stats" />
