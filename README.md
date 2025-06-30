@@ -102,11 +102,11 @@ Here’s a breakdown of my key projects. **Click on any dashboard preview to int
 ---
 ### 📈 My GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadijambwana&show_icons=true&theme=dracula" alt="Khadija's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijambwana&layout=compact&theme=dracula" alt="Khadija's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khadijambwana&show_icons=true&theme=dracula" alt="khadija's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijambwana&layout=compact&theme=dracula" alt="khadija's Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijambwana&theme=dracula" alt="Khadija's Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijambwana&theme=dracula" alt="khadija's Contribution Streak" />
 </p>
 
 
