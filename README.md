@@ -1,15 +1,3 @@
-<!-- START OF PROFILE -->
-
-<!-- 
-This is your new professional GitHub Profile README.
-Instructions:
-1. Copy all of this code.
-2. Go to your special repository (KhadijaMbwana/KhadijaMbwana).
-3. Click the pencil icon on the README.md file to edit it.
-4. Delete everything in that file and paste this code.
-5. Replace the few remaining links in brackets [ ] with your project links.
--->
-
 <!-- HEADER -->
 <h1 align="center">Hi, I'm Khadija Mbwana 👋</h1>
 <h3 align="center">A Data Analyst Specializing in Business Intelligence and Database Management.</h3>
@@ -63,8 +51,6 @@ These projects demonstrate my end-to-end data analysis capabilities. I encourage
   <ul>
     <li><strong>Tech Used:</strong> Power BI, PostgreSQL, Advanced Excel (for initial data validation)</li>
     <li><strong>Repo:</strong> <a href="[LINK_TO_YOUR_SALES_PROJECT_GITHUB_REPO]">View Project Code & SQL Queries</a></li>
-    <li><strong>Live Demo:</strong> <a href="[LINK_TO_YOUR_POWER_BI_PUBLIC_DASHBOARD_FOR_SALES]">View Interactive Dashboard</a></li>
-  </ul>
   <img src="[LINK_TO_YOUR_SALES_DASHBOARD_IMAGE_OR_GIF]" alt="Sales Dashboard GIF">
 </details>
 
