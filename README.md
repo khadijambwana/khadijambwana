@@ -107,7 +107,7 @@ Here’s a breakdown of my key projects. **Click on any dashboard preview to int
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijambwana&layout=compact&theme=dracula" alt="khadija's Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijambwana&theme=dracula" alt="khadija's Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijambwana&theme=dracula&v2" alt="khadija's Contribution Streak" />
 </p>
 
 
