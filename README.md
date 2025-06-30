@@ -36,22 +36,22 @@ My technical foundation is built on these powerful tools, enabling me to handle 
 </p>
 
 ---
-
 ### 📊 My Featured Projects
 
-These projects demonstrate my end-to-end data analysis capabilities. I encourage you to view the live dashboards.
+These projects demonstrate my end-to-end data analysis capabilities. Click on each project to learn more.
 
 <!-- PROJECT 1: SALES ANALYSIS -->
 <details>
   <summary><strong>📈 Project 1: Interactive Sales Performance Dashboard</strong></summary>
   <br>
-  <p>
-    Designed and built a comprehensive sales dashboard in <strong>Power BI</strong> using data queried directly from a <strong>PostgreSQL</strong> database. This project tracks key performance indicators (KPIs) like revenue, profit margins, and sales by region, allowing stakeholders to identify top-performing products and pinpoint areas for growth.
-  </p>
-  <ul>
-    <li><strong>Tech Used:</strong> Power BI, PostgreSQL, Advanced Excel (for initial data validation)</li>
-    <li><strong>Repo:</strong> <a href="[https://github.com/khadijambwana/Sales-Analysis]">View Project Code & SQL Queries</a></li>
-  <img src="[LINK_TO_YOUR_SALES_DASHBOARD_IMAGE_OR_GIF]" alt="Sales Dashboard GIF">
+  
+  This project tracks key performance indicators (KPIs) like revenue, profit margins, and sales by region, allowing stakeholders to identify top-performing products and pinpoint areas for growth. I designed and built this comprehensive sales dashboard in **Power BI** using data queried directly from a **PostgreSQL** database.
+  
+  * **Tech Stack:** Power BI, PostgreSQL, Advanced Excel (for initial data validation).
+  * **Repository:** [View Project Code & SQL Queries](https://github.com/khadijambwana/Sales-Analysis)
+
+  ![Sales Dashboard Preview]([LINK_TO_YOUR_SALES_DASHBOARD_IMAGE])
+
 </details>
 
 <br>
@@ -60,14 +60,16 @@ These projects demonstrate my end-to-end data analysis capabilities. I encourage
 <details>
   <summary><strong>🏥 Project 2: Hospital Operations & Patient Flow Analysis</strong></summary>
   <br>
-  <p>
-    Analyzed hospital operations data to optimize patient flow and resource allocation. I used <strong>PostgreSQL</strong> to manage and query patient admission and discharge data, and built a <strong>Power BI</strong> dashboard to visualize trends in bed occupancy rates, average length of stay, and patient wait times. The goal was to provide hospital administrators with data to improve patient care and operational efficiency.
-  </p>
-  <ul>
-    <li><strong>Tech Used:</strong> Power BI, PostgreSQL</li>
-    <li><strong>Repo:</strong> <a href="[https://github.com/khadijambwana/Healthcare_analytics]">View Project Code & SQL Queries</a></li>
-  <img src="[https://raw.githubusercontent.com/khadijambwana/Healthcare_analytics/main/hospital_dashboard.png]" alt="Hospital Dashboard GIF">
+  
+  To help hospital administrators improve patient care, I analyzed operations data to optimize patient flow and resource allocation. I used **PostgreSQL** to query patient data and built a **Power BI** dashboard to visualize trends in bed occupancy, average length of stay, and patient wait times.
+
+  * **Tech Stack:** Power BI, PostgreSQL.
+  * **Repository:** [View Project Code & SQL Queries](https://github.com/khadijambwana/Healthcare_analytics)
+
+  ![Hospital Dashboard Preview](https://raw.githubusercontent.com/khadijambwana/Healthcare_analytics/main/hospital_dashboard.png)
+
 </details>
+
 
 ---
 
