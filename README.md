@@ -50,7 +50,7 @@ These projects demonstrate my end-to-end data analysis capabilities. I encourage
   </p>
   <ul>
     <li><strong>Tech Used:</strong> Power BI, PostgreSQL, Advanced Excel (for initial data validation)</li>
-    <li><strong>Repo:</strong> <a href="[LINK_TO_YOUR_SALES_PROJECT_GITHUB_REPO]">View Project Code & SQL Queries</a></li>
+    <li><strong>Repo:</strong> <a href="[https://github.com/khadijambwana/Sales-Analysis]">View Project Code & SQL Queries</a></li>
   <img src="[LINK_TO_YOUR_SALES_DASHBOARD_IMAGE_OR_GIF]" alt="Sales Dashboard GIF">
 </details>
 
@@ -65,10 +65,8 @@ These projects demonstrate my end-to-end data analysis capabilities. I encourage
   </p>
   <ul>
     <li><strong>Tech Used:</strong> Power BI, PostgreSQL</li>
-    <li><strong>Repo:</strong> <a href="[LINK_TO_YOUR_HOSPITAL_PROJECT_GITHUB_REPO]">View Project Code & SQL Queries</a></li>
-    <li><strong>Live Demo:</strong> <a href="[LINK_TO_YOUR_POWER_BI_PUBLIC_DASHBOARD_FOR_HOSPITAL]">View Interactive Dashboard</a></li>
-  </ul>
-  <img src="[LINK_TO_YOUR_HOSPITAL_DASHBOARD_IMAGE_OR_GIF]" alt="Hospital Dashboard GIF">
+    <li><strong>Repo:</strong> <a href="[https://github.com/khadijambwana/Healthcare_analytics]">View Project Code & SQL Queries</a></li>
+  <img src="[https://raw.githubusercontent.com/khadijambwana/Healthcare_analytics/main/hospital_dashboard.png]" alt="Hospital Dashboard GIF">
 </details>
 
 ---
