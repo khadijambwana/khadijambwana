@@ -121,7 +121,7 @@ I'm excited about new opportunities and collaborations. Feel free to reach out!
 
 - 📧 Email: [mbwanakhadija77@gmail.com](mailto:mbwanakhadija77@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/khadija-mbwana](https://linkedin.com/in/khadija-mbwana)
-- 🐱GitHub[github.com/khadijambwana(https://github.com/khadijambwana)
+- 🐱GitHub[github.com/khadijambwana](https://github.com/khadijambwana)
 
 
 
