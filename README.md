@@ -36,27 +36,29 @@ My technical foundation is built on these powerful tools, enabling me to handle 
 </p>
 
 ---
-### 📊 My Featured Projects
+### 📊 My Featured Case Studies
 
-Here’s a breakdown of my key projects. **Click on any dashboard preview to interact with the live report.**
+Here’s a breakdown of my key data solutions. Click on a drop-down to see the business problem, technical execution, and commercial results.
 
 <!-- PROJECT 1: SALES ANALYSIS -->
 <details>
-  <summary><strong>📈 Project 1: Interactive Sales Performance Dashboard</strong></summary>
+  <summary><strong>📈 Case Study 1: Interactive Executive Sales & Profit Performance Dashboard</strong></summary>
   <br>
   <table>
     <tr>
-      <td valign="top" width="50%">
-        <p><strong>Goal:</strong> To provide stakeholders with a tool to track sales KPIs, identify growth opportunities, and analyze regional performance.</p>
-        <p><strong>My Role:</strong> I performed the end-to-end analysis, from querying the database with SQL to building the final interactive dashboard in Power BI.</p>
+      <td valign="top" width="55%">
+        <p><strong>The Business Problem:</strong> A retail enterprise managing $2.30M in sales lacked real-time visibility into product profitability across regional supply chains, causing hidden operational margin leaks.</p>
+        <p><strong>My Solution:</strong> Structured raw client data tables via PostgreSQL using complex joins and conditional logic, designed star-schema data models, and engineered dynamic visual KPIs in Power BI.</p>
+        <p><strong>💼 The Business Value (Analyst's Insight):</strong> Stakeholders can now filter down to low-margin cities and underperforming product sub-categories (like Tables & Bookcases) in under two clicks, allowing managers to immediately protect net cash flow.</p>
         <br>
         <ul>
-          <li><strong>Tech Stack:</strong> Power BI, PostgreSQL, Excel</li>
+          <li><strong>Tech Stack:</strong> Power BI, PostgreSQL, Microsoft Excel</li>
           <li><strong>Repository:</strong> <a href="https://github.com/khadijambwana/Sales-Analysis">View Project Code & SQL Queries</a></li>
         </ul>
       </td>
-      <td valign="top" width="50%">
-          <img src="[LINK_TO_YOUR_SALES_DASHBOARD_IMAGE]" alt="Sales Dashboard Preview"/>
+      <td valign="middle" width="45%" align="center">
+        <a href="https://github.com/khadijambwana/Sales-Analysis" target="_blank">
+          <img src="https://githubusercontent.com" alt="Sales Dashboard Preview" style="max-width:100%; border:1px solid #333; border-radius:4px;"/>
         </a>
       </td>
     </tr>
@@ -67,21 +69,23 @@ Here’s a breakdown of my key projects. **Click on any dashboard preview to int
 
 <!-- PROJECT 2: HOSPITAL ANALYSIS -->
 <details>
-  <summary><strong>🏥 Project 2: Hospital Operations & Patient Flow Analysis</strong></summary>
+  <summary><strong>🏥 Case Study 2: Healthcare Operations & Patient Flow Optimization</strong></summary>
   <br>
   <table>
     <tr>
-      <td valign="top" width="50%">
-        <p><strong>Goal:</strong> To help hospital administrators improve efficiency and patient care by analyzing operational data.</p>
-        <p><strong>My Role:</strong> I used SQL to clean and query patient records and then developed a Power BI dashboard to visualize key metrics like bed occupancy, patient wait times, and average length of stay.</p>
+      <td valign="top" width="55%">
+        <p><strong>The Business Problem:</strong> Healthcare facilities face major operational bottlenecks and financial drains due to misallocated bed capacities, unoptimized staffing schedules, and high peak patient stay times.</p>
+        <p><strong>My Solution:</strong> Cleaned historical patient logs in Excel and queried datasets using SQL to analyze resource utilization rates and identify geographical public health hotspots.</p>
+        <p><strong>💼 The Business Value (Analyst's Insight):</strong> Pinpointed that severe patient trauma cases dictate a 35-day average stay bottleneck, allowing administrators to execute proactive discharge strategies and load-balance patients across over-capacity facility networks.</p>
         <br>
         <ul>
-          <li><strong>Tech Stack:</strong> Power BI, PostgreSQL</li>
+          <li><strong>Tech Stack:</strong> Power BI, PostgreSQL, Microsoft Excel</li>
           <li><strong>Repository:</strong> <a href="https://github.com/khadijambwana/Healthcare_analytics">View Project Code & SQL Queries</a></li>
         </ul>
       </td>
-      <td valign="top" width="50%">
-          <img src="https://raw.githubusercontent.com/khadijambwana/Healthcare_analytics/main/hospital_dashboard.png" alt="Hospital Dashboard Preview"/>
+      <td valign="middle" width="45%" align="center">
+        <a href="https://github.com/khadijambwana/Healthcare_analytics" target="_blank">
+          <img src="https://raw.githubusercontent.com/khadijambwana/Healthcare_analytics/main/hospital_dashboard.png" alt="Hospital Dashboard Preview" style="max-width:100%; border:1px solid #333; border-radius:4px;"/>
         </a>
       </td>
     </tr>
