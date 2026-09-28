@@ -6,7 +6,7 @@
 
 <!-- ABOUT ME -->
 <p align="center">
-  I transform raw data into clear business solutions using <strong>Power BI, advanced Excel, and PostgreSQL</strong>. My passion is building interactive dashboards and querying complex databases to uncover insights that drive growth and efficiency. I am currently expanding my technical toolkit by learning <strong>Python</strong> for data analysis and am actively seeking a full-time Data Analyst role where I can apply my skills to solve real-world challenges.
+  I transform messy company data into clean, automated reporting pipelines using Power BI, advanced Excel, and PostgreSQL. I build custom executive dashboards that stop stakeholders from wasting hours on manual spreadsheets and give them the exact numbers they need to protect their profit margins.👉 Need a custom dashboard or database pipeline for your business? Let's talk: Book a Consultation via LinkedIn
 </p>
 
 ---
